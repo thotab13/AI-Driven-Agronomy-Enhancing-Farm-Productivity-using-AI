@@ -14,3 +14,6 @@ data enables farmers to precisely monitor crop growth and perform appropriate in
 quality and production. This technology enables farmers to make data-driven decisions
 and promotes sustainable agricultural practices in a tough and changing environment
 by integrating real-time monitoring with predictive capabilities.
+
+Paper got accepted and published in IEEE conference(International Conference on Innovative Practices in Technology and
+Management ICIPTM 2024) link: https://ieeexplore.ieee.org/document/10563562
